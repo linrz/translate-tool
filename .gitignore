@@ -1,0 +1,5 @@
+.idea/
+dist/
+ptrans.egg-info/
+trans/__pycache__/
+trans/config.py
